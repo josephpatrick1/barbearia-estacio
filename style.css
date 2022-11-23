@@ -1,0 +1,19 @@
+.corte {
+    width: calc(33.3% - 60px);
+    border: 1px solid black;
+    margin: 20px;
+    background: rgb(98, 98, 98);
+    color: white;
+    padding: 30px;
+}
+
+body {
+    background: #f5f5bc;
+}
+
+a {
+    border: 1px solid gray;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 20px;
+}
